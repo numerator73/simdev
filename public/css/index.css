@@ -1,0 +1,20 @@
+html, body #intro{
+    height: 100%;
+    margin-bottom: 20px;
+    background-color: #060606;
+}
+
+.nav-pad {
+    padding-right: 80px;
+}
+
+.text-shape {
+    height: 220px;
+    width: 586px;
+    color: #FFFFFF;
+    font-family: "SF Pro Display";
+    font-size: 52px;
+    font-weight: 300;
+    letter-spacing: 0;
+    line-height: 73px;
+}
